@@ -1,6 +1,6 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am passionate about technology, an eternal apprentice, I like challenges, solving problems and seeking improvements motivates me. More than a decade of         experience in IT, working in the area of Cloud Infrastructure and its subsystems, information security, networks and support for users and systems,               management  of physical and virtual servers.
+  <samp>I am passionate about technology. I like challenges, solving problems and seeking improvements motivates me. I have more than a decade of         experience in IT, working in the area of Cloud Infrastructure and its subsystems, information security, networks and support for users and systems,               management of physical and virtual servers.
         I have worked with projects to implement new technologies, automation and configuration of environments.
   </samp>
 </p>
