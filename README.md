@@ -1,6 +1,7 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Nice to meet you!
+  <samp>
+Nice to meet you!
 My name is Diego Pauletto, Brazilian and I am passionate about technology. I like challenges, solving problems and seeking improvements motivates me. 
 I can feel comfortable working under pressure and big problems. I enjoy working in an environment that challenges me daily and offers opportunities to further develop my career and skills.
 
