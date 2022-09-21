@@ -1,7 +1,10 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am passionate about technology. I like challenges, solving problems and seeking improvements motivates me. I have more than a decade of         experience in IT, working in the area of Cloud Infrastructure and its subsystems, information security, networks and support for users and systems,               management of physical and virtual servers.
-        I have worked with projects to implement new technologies, automation and configuration of environments.
+  <samp>Nice to meet you!
+My name is Diego Pauletto, Brazilian and I am passionate about technology. I like challenges, solving problems and seeking improvements motivates me. 
+I can feel comfortable working under pressure and big problems. I enjoy working in an environment that challenges me daily and offers opportunities to further develop my career and skills.
+
+Currently I have been working with Cloud environments, Infrastructure as code using Terraform and Azure DevOps automations.
   </samp>
 </p>
 
