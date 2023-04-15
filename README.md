@@ -1,6 +1,7 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
+  
 Hey there!
     
 Nice to meet you, my name is Diego Pauletto and I am a technology enthusiast.
