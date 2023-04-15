@@ -1,11 +1,12 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
-Nice to meet you!
-My name is Diego Pauletto, Brazilian and I am passionate about technology. I like challenges, solving problems and seeking improvements motivates me. 
-I can feel comfortable working under pressure and big problems. I enjoy working in an environment that challenges me daily and offers opportunities to further develop my career and skills.
+Hey there!
+    
+Nice to meet you, my name is Diego Pauletto and I am a technology enthusiast.
+My goals are to push boundaries, tackle difficult problems and constantly look for ways to improve.
 
-Currently I have been working with Cloud environments, Infrastructure as code using Terraform and Azure DevOps automations.
+My current focus is on Cloud environments, where I specialized in Infrastructure as Code using Terraform and Azure DevOps automations.
   </samp>
 </p>
 
