@@ -80,4 +80,7 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 
 
   
-![Snake animation](https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
