@@ -11,7 +11,6 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 
   </samp>
 </p>
-
 <hr>
 
 
@@ -48,7 +47,6 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>    
 </div> 
-
 <hr>
 
 
@@ -79,10 +77,7 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 
 
-### Views and Followers:
-  <img src="https://komarev.com/ghpvc/?username=diegosrp" alt="https://github.com/diegosrp"></a>
-  <a href="https://github.com/diegosrp?tab=followers" target="_blank">
-     <img src="https://img.shields.io/github/followers/diegosrp?label=Followers&style=social" alt="Github Badge"></a>
+
 
   
 ![Snake animation](https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg)
