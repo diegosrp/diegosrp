@@ -59,11 +59,14 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 <!--    <a href="https://t.me/pauletto90" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  -->
 
-<a href="https://www.linkedin.com/in/diegopauletto90" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/linkedin/linkedin.svg" alt="diegosrp" height="30" width="40" />
-</a> <a href="https://www.youtube.com/@diegopauletto" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/youtube/youtube.svg" alt="diegosrp" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/diegopauletto90" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@diegopauletto" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/youtube/youtube.svg" alt="YouTube" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
 
 
