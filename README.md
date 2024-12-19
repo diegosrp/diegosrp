@@ -70,17 +70,10 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 </div>
 
 <br>
-<br>
-<br>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-
-
-
-
-  
 <p align="center">
   <img src="https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
