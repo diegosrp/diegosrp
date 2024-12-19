@@ -29,6 +29,7 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Python"     width="40px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> 
   <img align="center" alt="Go"         width="35px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg"> 
   <img align="center" alt="Powershell" width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">  -->
+  
 <p align="center">
   <img align="center" alt="Windows"                          width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg">
   <img align="center" alt="Linux"                            width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg">
@@ -58,7 +59,7 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 <!--    <a href="https://t.me/pauletto90" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  -->
 
-  <a href="https://www.linkedin.com/in/diegopauletto90" ><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/linkedin/linkedin.svg" alt="diegosrp" height="30" width="40" /></a><a href="https://www.youtube.com/@diegopauletto90" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/youtube/youtube.svg" alt="diegosrp" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/diegopauletto90" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/linkedin/linkedin.svg" alt="diegosrp" height="30" width="40" /></a> <a href="https://www.youtube.com/@diegopauletto" target="_blank"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/youtube/youtube.svg" alt="diegosrp" height="30" width="40" /></a>
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
