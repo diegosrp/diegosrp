@@ -11,7 +11,9 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
 
   </samp>
 </p>
+
 <hr>
+
 
 ### Technologies:
 <div>
@@ -45,9 +47,10 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>    
-</div>    
+</div> 
 
 <hr>
+
 
 ### Connect with me:
 <div> 
@@ -68,22 +71,18 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   </p>
 </div>
 
-
+<br>
+<br>
+<br>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-
-     
-</div>     
- 
- 
-
 
 
 ### Views and Followers:
   <img src="https://komarev.com/ghpvc/?username=diegosrp" alt="https://github.com/diegosrp"></a>
   <a href="https://github.com/diegosrp?tab=followers" target="_blank">
      <img src="https://img.shields.io/github/followers/diegosrp?label=Followers&style=social" alt="Github Badge"></a>
-  
+
   
 ![Snake animation](https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg)
