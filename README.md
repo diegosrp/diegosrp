@@ -41,8 +41,8 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Docker"                           width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Kubernetes"                       width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="ADO"                              width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg">
-  <img align="center" alt="Python"                           width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg">
-  <img align="center" alt="Go"                               width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg">
+<!--   <img align="center" alt="Python"                           width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> -->
+<!--   <img align="center" alt="Go"                               width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg"> -->
   <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>    
@@ -61,10 +61,10 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>  -->
 
   <a href="https://www.linkedin.com/in/diegopauletto90" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+      <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.youtube.com/@diegopauletto" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/refs/heads/master/public/logos/youtube/youtube.svg" alt="YouTube" height="30" width="40" />
+      <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/youtube/youtube.svg" alt="YouTube" height="30" width="40" />
     </a>
   </p>
 </div>
