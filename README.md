@@ -1,13 +1,17 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+Security+%26+Automation;IaC+%7C+Microsoft+Defender+%7C+AI;DevOps+%7C+Platform+%7C+Cloud;HashiCorp+Ambassador+%7C+Microsoft+MVP;Secure.+Scalable.+Automated.;Welcome!)](https://git.io/typing-svg)
+
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
   
 Hey there!
-    
-Nice to meet you, my name is Diego Pauletto and I am a technology enthusiast.
-My goals are to push boundaries, tackle difficult problems and constantly look for ways to improve.
 
-My current focus is on Cloud environments, where I specialized in Infrastructure as Code using Terraform and Azure DevOps automations.
+Diego Pauletto here, a technology enthusiast with 18+ years in IT, building scalable, secure, and automated cloud infrastructures using Infrastructure as Code (IaC).
+
+Currently focused on Cloud Security, helping organizations strengthen defenses while maintaining agility.  
+Working at the intersection of Cloud, Security, and Automation, designing secure cloud foundations and integrating tools for protection throughout the lifecycle.
+
+Passionate about streamlining operations and finding smarter ways to automate and optimize.
 
   </samp>
 </p>
@@ -32,8 +36,8 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Powershell" width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">  -->
   
 <p align="center">
-  <img align="center" alt="Windows"                          width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Linux"                            width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg">
+  <!-- <img align="center" alt="Windows"                          width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg">
+  <img align="center" alt="Linux"                            width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"> -->
   <img align="center" alt="Terraform"                        width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
   <img align="center" alt="Vault"                            width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vault/vault-original.svg">
   <img align="center" alt="Azure"              height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
@@ -41,10 +45,14 @@ My current focus is on Cloud environments, where I specialized in Infrastructure
   <img align="center" alt="Docker"                           width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Kubernetes"                       width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="ADO"                              width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg">
-<!--   <img align="center" alt="Python"                           width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> -->
-<!--   <img align="center" alt="Go"                               width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg"> -->
-  <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">
+  <!-- <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg"> -->
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Microsoft Defender"               width="33px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-defender.png">
+  <!-- <img align="center" alt="Microsoft Sentinel"               width="33px" src="https://az-icons.com/export/icons/c942e4fe2f9031806a31665a08efe37f.svg"> -->
+  <!-- <img align="center" alt="Microsoft Defender for Cloud"     width="33px" src="https://az-icons.com/export/icons/3f3bbb24efa49bab13fc9b7b996286cf.svg"> -->
+  <img align="center" alt="AI Studio"                        width="33px" src="https://az-icons.com/export/icons/bdba2064be58a6b30881bfaddcf6e29d.svg">
+  <!-- <img align="center" alt="Wiz"                              width="33px" src="https://cdn.brandfetch.io/idXbhQWKqT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"> -->
+  
 </p>    
 </div> 
 <hr>
