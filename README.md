@@ -8,7 +8,7 @@ Hey there!
 
 Diego Pauletto here, an IT professional with 18+ years of experience, building scalable, secure, and automated cloud infrastructures using Infrastructure as Code (IaC).
 
-Currently focused on Cloud Security, helping organizations strengthen defenses while maintaining agility.  
+I help organizations strengthen defenses while maintaining agility.  
 Working at the intersection of Cloud, Security, and Automation, designing secure cloud foundations and integrating tools for protection throughout the lifecycle.
 
 Passionate about streamlining operations and finding smarter ways to automate and optimize.
