@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+Security+%26+Automation;IaC+%7C+Microsoft+Defender+%7C+AI;HashiCorp+Ambassador+%7C+Microsoft+MVP;Secure.+Scalable.+Automated.;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+Security+%26+Automation;IaC+%7C+Microsoft+Defender+%7C+AI;Secure.+Scalable.+Automated.;Welcome!)](https://git.io/typing-svg)
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
