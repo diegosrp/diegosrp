@@ -3,15 +3,14 @@
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
-  
+    
 Hey there!
 
-Diego Pauletto here, an IT professional with 18+ years of experience, building scalable, secure, and automated cloud infrastructures using Infrastructure as Code (IaC).
+Diego Pauletto here, a Cloud Engineer with 15+ years of experience, focused on Azure Landing Zones, Terraform and DevSecOps.
 
-I help organizations strengthen defenses while maintaining agility.  
-Working at the intersection of Cloud, Security, and Automation, designing secure cloud foundations and integrating tools for protection throughout the lifecycle.
+I help organizations adopt cloud at scale without compromising security or compliance, designing production-ready environments with Infrastructure as Code, CI/CD pipelines and security-first practices.
 
-Passionate about streamlining operations and finding smarter ways to automate and optimize.
+Passionate about streamlining operations and finding smarter ways to automate.
 
   </samp>
 </p>
