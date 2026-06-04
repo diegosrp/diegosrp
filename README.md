@@ -6,7 +6,7 @@
     
 Hey there!
 
-Diego Pauletto here, a Cloud Engineer with 15+ years of experience, focused on Azure Landing Zones, Terraform and DevSecOps.
+Diego Pauletto here, a Cloud Engineer with 10+ years of experience, focused on Azure Landing Zones, Terraform and DevSecOps.
 
 I help organizations adopt cloud at scale without compromising security or compliance, designing production-ready environments with Infrastructure as Code, CI/CD pipelines and security-first practices.
 
