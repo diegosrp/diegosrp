@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+•+Platform+•+Security+•+Terraform+•+AI;Welcome!)](https://git.io/typing-svg)
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
@@ -6,16 +6,18 @@
     
 Hey there!
 
-Diego Pauletto here, IT professional with over 10 years of experience in infrastructure and IT operations, with the last several years focused on Cloud Engineering, Automation, DevOps, Security, and Platform Engineering.
+Diego Pauletto here, I work across Cloud, Platform Engineering, and Security with a strong focus on Terraform, Infrastructure as Code (IaC), cloud governance, and cloud security.
 
-Experienced in supporting cloud environments across Azure and AWS, with strong expertise in Infrastructure as Code, CI/CD, cloud governance, automation, and operational excellence.
+Most of my work revolves around cloud foundations, landing zones, security capabilities, and reusable platform components that help teams move faster without sacrificing governance and security.
+
+Currently exploring AI for Cloud Engineering, platform engineering and security automation at scale.
 
   </samp>
 </p>
+
 <hr>
 
-
-### Technologies:
+### 🛠️ Tools & Technologies
 <div>
 <!--   <p align="left"> -->
 <!--   <img align="center" alt="Windows"    width="30px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"> 
@@ -49,7 +51,25 @@ Experienced in supporting cloud environments across Azure and AWS, with strong e
   <!-- <img align="center" alt="Microsoft Defender for Cloud"     width="33px" src="https://az-icons.com/export/icons/3f3bbb24efa49bab13fc9b7b996286cf.svg"> -->
   <img align="center" alt="AI Studio"                        width="33px" src="https://az-icons.com/export/icons/bdba2064be58a6b30881bfaddcf6e29d.svg">
   <!-- <img align="center" alt="Wiz"                              width="33px" src="https://cdn.brandfetch.io/idXbhQWKqT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"> -->
-  
+
+  <hr>
+
+### 📌 Areas of Interest <br>
+• Cloud Platforms <br>
+• Terraform & Infrastructure as Code (IaC) <br>
+• Cloud Security <br>
+• Platform Engineering <br>
+• DevSecOps <br>
+• Cloud Governance <br>
+• AI for Cloud Engineering <br>
+
+<hr>
+
+### 🏆 Community <br> 
+• Microsoft Azure MVP (Azure IaC) <br>
+• HashiCorp Ambassador <br>
+• IBM Champion 
+
 </p>    
 </div> 
 <hr>
