@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+•+Platform+•+Security+•+Terraform+•+AI;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Cloud+•+DevOps+•+Security+•+Terraform+•+AI;Welcome!)](https://git.io/typing-svg)
 
 <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
@@ -6,7 +6,7 @@
     
 Hey there!
 
-Diego Pauletto here, I work across Cloud, Platform Engineering, and Security with a strong focus on Terraform, Infrastructure as Code (IaC), cloud governance, and cloud security.
+Diego Pauletto here, I work across Cloud, DevOps, and Security with a strong focus on Terraform, Infrastructure as Code (IaC), governance, and cloud security for enterprise cloud platforms.
 
 Most of my work revolves around cloud foundations, landing zones, security capabilities, and reusable platform components that help teams move faster without sacrificing governance and security.
 
