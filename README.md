@@ -152,9 +152,9 @@ Currently exploring AI for Cloud Engineering, and platform engineering.
   <img src="https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="GIF principal" /> |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 
- <p align='center'>
+<p align="center">
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
