@@ -15,7 +15,6 @@ jobs:
       - name: Pull in latest posts from Unicast
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "Unicast"
           commit_message: "Workflow updated readme with the latest blog post data"
           feed_list: "https://diegosrp.github.io/feed.xml"
           max_post_count: 5
