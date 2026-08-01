@@ -15,6 +15,33 @@ Currently exploring AI for Cloud Engineering, platform engineering and security 
   </samp>
 </p>
 
+<details>
+  <summary>Certificates</summary>
+  
+<!--START_SECTION:badges-->
+[![Microsoft Certified: Cloud and AI Security Engineer Associate](https://images.credly.com/size/80x80/images/f60e3e7e-478f-469d-86e5-0ec046fceb2c/converted20260801-32-ybfcw6.png)](https://www.credly.com/users/diegopauletto90/badges)
+[![Microsoft Certified: Cybersecurity Business Professional (beta)](https://images.credly.com/size/80x80/images/ebe77223-e0ab-4fec-b1f3-4f9515fe3219/converted20260801-32-dc8fys.png)](https://www.credly.com/users/diegopauletto90/badges)
+[![Microsoft Certified: AI Transformation Leader](https://images.credly.com/size/80x80/images/feb29ee6-090d-4f0b-aa1a-69c0153301d8/converted20260801-32-d44g83.png)](https://www.credly.com/users/diegopauletto90/badges)
+[![Microsoft Certified: AI Business Professional](https://images.credly.com/size/80x80/images/e8855478-a56c-43f0-9f7b-cb7c74cd95d0/converted20260801-29-6h1ws1.png)](https://www.credly.com/users/diegopauletto90/badges)
+[![Microsoft 365 Certified: Copilot and Agent Administration Fundamentals](https://images.credly.com/size/80x80/images/a5db22fe-61ed-4cfa-b00c-c7bf9d4d7a7e/converted20260801-33-t6skfe.png)](https://www.credly.com/users/diegopauletto90/badges)
+[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/80x80/images/d192998b-0632-49a0-b519-d548d9aa2566/converted20260801-33-tihxz0.png)](https://www.credly.com/users/diegopauletto90/badges)
+<!--END_SECTION:badges-->
+  
+</details>
+
+<details>
+  <summary>Latest from the blog</summary>
+  
+<!-- Blog:START -->
+- [Azure Tag Governance with Terraform and Automated Compliance Monitoring](https://diegosrp.github.io/post/azure-tag-governance-with-terraform-and-automated-compliance-monitoring/)
+- [Challenge - DIO Cloud Native E-commerce Data Catalog](https://diegosrp.github.io/post/ecommerce-data-catalog/)
+- [HashiConf 2025 - San Francisco, USA](https://diegosrp.github.io/post/hashiconf2025/)
+- [Cloud Adoption Framework vs. Well-Architected Framework](https://diegosrp.github.io/post/azure-caf-vs-waf/)
+- [Diagnostic Settings](https://diegosrp.github.io/post/azure-diagnostic-settings/)
+<!-- Blog:END -->
+
+</details>
+
 <hr>
 
 ### 🛠️ Tools & Technologies
@@ -74,7 +101,6 @@ Currently exploring AI for Cloud Engineering, platform engineering and security 
 </div> 
 <hr>
 
-
 ### Connect with me:
 <div> 
    <p align="left">
@@ -93,35 +119,6 @@ Currently exploring AI for Cloud Engineering, platform engineering and security 
     </a>
   </p>
 </div>
-
-<br>
-
-<details>
-  <summary>Certificates</summary>
-  
-<!--START_SECTION:badges-->
-[![Microsoft Certified: Cloud and AI Security Engineer Associate](https://images.credly.com/size/80x80/images/f60e3e7e-478f-469d-86e5-0ec046fceb2c/converted20260801-32-ybfcw6.png)](https://www.credly.com/users/diegopauletto90/badges)
-[![Microsoft Certified: Cybersecurity Business Professional (beta)](https://images.credly.com/size/80x80/images/ebe77223-e0ab-4fec-b1f3-4f9515fe3219/converted20260801-32-dc8fys.png)](https://www.credly.com/users/diegopauletto90/badges)
-[![Microsoft Certified: AI Transformation Leader](https://images.credly.com/size/80x80/images/feb29ee6-090d-4f0b-aa1a-69c0153301d8/converted20260801-32-d44g83.png)](https://www.credly.com/users/diegopauletto90/badges)
-[![Microsoft Certified: AI Business Professional](https://images.credly.com/size/80x80/images/e8855478-a56c-43f0-9f7b-cb7c74cd95d0/converted20260801-29-6h1ws1.png)](https://www.credly.com/users/diegopauletto90/badges)
-[![Microsoft 365 Certified: Copilot and Agent Administration Fundamentals](https://images.credly.com/size/80x80/images/a5db22fe-61ed-4cfa-b00c-c7bf9d4d7a7e/converted20260801-33-t6skfe.png)](https://www.credly.com/users/diegopauletto90/badges)
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/80x80/images/d192998b-0632-49a0-b519-d548d9aa2566/converted20260801-33-tihxz0.png)](https://www.credly.com/users/diegopauletto90/badges)
-<!--END_SECTION:badges-->
-  
-</details>
-
-<details>
-  <summary>Latest from the blog</summary>
-  
-<!-- Blog:START -->
-- [Azure Tag Governance with Terraform and Automated Compliance Monitoring](https://diegosrp.github.io/post/azure-tag-governance-with-terraform-and-automated-compliance-monitoring/)
-- [Challenge - DIO Cloud Native E-commerce Data Catalog](https://diegosrp.github.io/post/ecommerce-data-catalog/)
-- [HashiConf 2025 - San Francisco, USA](https://diegosrp.github.io/post/hashiconf2025/)
-- [Cloud Adoption Framework vs. Well-Architected Framework](https://diegosrp.github.io/post/azure-caf-vs-waf/)
-- [Diagnostic Settings](https://diegosrp.github.io/post/azure-diagnostic-settings/)
-<!-- Blog:END -->
-
-</details>
 
 <p align="center">
   <img src="https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
