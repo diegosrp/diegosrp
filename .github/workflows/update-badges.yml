@@ -17,5 +17,6 @@ jobs:
         with:
           CREDLY_USER: diegopauletto90 
           NUMBER_LAST_BADGES: 0 
+          COMMIT_MESSAGE: "🎉 Updated with latest certifications"
     
           
