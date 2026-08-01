@@ -96,6 +96,18 @@ Currently exploring AI for Cloud Engineering, platform engineering and security 
 
 <br>
 
+<details>
+  <summary>Certificates</summary>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+</details>
+
+<details>
+  <summary>Latest from the blog</summary>
+<!-- Blog:START -->
+<!-- Blog:END -->
+</details>
+
 <p align="center">
   <img src="https://github.com/diegosrp/diegosrp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
