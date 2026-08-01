@@ -127,7 +127,7 @@ Currently exploring AI for Cloud Engineering, and platform engineering.
 - [Diagnostic Settings](https://diegosrp.github.io/post/azure-diagnostic-settings/)
 <!-- Blog:END -->
 
-
+---
 
 ### Connect with me:
 <div> 
