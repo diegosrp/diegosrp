@@ -1,22 +1,22 @@
-name: Update Badges
+# name: Update Badges
 
-on:
-  schedule:
-    - cron: "0 17 * * 0"
-  workflow_dispatch: 
+# on:
+#   schedule:
+#     - cron: "0 17 * * 0"
+#   workflow_dispatch: 
 
-jobs:
-  update-badges:
-    name: Update README with Credly Badges
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Update Badges
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: diegopauletto90 
-          NUMBER_LAST_BADGES: 0 
-          COMMIT_MESSAGE: "🎉 Updated with latest certifications"
+# jobs:
+#   update-badges:
+#     name: Update README with Credly Badges
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - name: Update Badges
+#         uses: pemtajo/badge-readme@main
+#         with:
+#           CREDLY_USER: diegopauletto90 
+#           NUMBER_LAST_BADGES: 0 
+#           COMMIT_MESSAGE: "🎉 Updated with latest certifications"
     
           
