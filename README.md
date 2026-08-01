@@ -114,3 +114,7 @@ Currently exploring AI for Cloud Engineering, platform engineering and security 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegosrp&theme=react) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegosrp&theme=react) |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+
+ <p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
