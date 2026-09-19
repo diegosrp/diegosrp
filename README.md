@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&center=true&vCenter=true&width=1000&height=60&lines=Always+learning+new+things;Welcome!)](https://git.io/typing-svg)
 
-<h2 align="center">👨‍💻 Whoami</h2>
+<!-- <h2 align="center">👨‍💻 Whoami</h2>
 <p align="center">
   <samp>
     
@@ -14,47 +14,30 @@ Currently exploring AI for Cloud Engineering, and platform engineering.
 
 <hr>
 
-### 🛠️ Tools & Technologies
-<div>
-<!--   <p align="left"> -->
-<!--   <img align="center" alt="Windows"    width="30px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg"> 
-  <img align="center" alt="Linux"      width="35px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"> 
-  <img align="center" alt="Docker"     width="50px"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Kubernetes" width="40px"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Terraform"  width="40px"            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> 
-  <img align="center" alt="Vault"      width="30px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vault/vault-original.svg"> 
-  <img align="center" alt="Git"        height="30"  width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="ADO"        width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg"> 
-  <img align="center" alt="Azure"      height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="AWS"        width="60px"            src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"> 
-  <img align="center" alt="Python"     width="40px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"> 
-  <img align="center" alt="Go"         width="35px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original.svg"> 
-  <img align="center" alt="Powershell" width="37px"            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg">  -->
-  
+### 🛠️ Tools & Technologies 
 <p align="center">
-  <!-- <img align="center" alt="Windows"                          width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original.svg">
-  <img align="center" alt="Linux"                            width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg"> -->
   <img align="center" alt="Terraform"                        width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
+  
   <img align="center" alt="Vault"                            width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vault/vault-original.svg">
+  
   <img align="center" alt="Azure"              height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  
   <img align="center" alt="AWS"                              width="60px" src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg">
+  
   <img align="center" alt="Docker"                           width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  
   <img align="center" alt="Kubernetes"                       width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  
   <img align="center" alt="ADO"                              width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-original.svg">
-  <!-- <img align="center" alt="Powershell"                       width="37px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg"> -->
+  
   <img align="center" alt="Git" height="30px"                width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Microsoft Defender"               width="33px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/microsoft-defender.png">
-  <!-- <img align="center" alt="Microsoft Sentinel"               width="33px" src="https://az-icons.com/export/icons/c942e4fe2f9031806a31665a08efe37f.svg"> -->
-  <!-- <img align="center" alt="Microsoft Defender for Cloud"     width="33px" src="https://az-icons.com/export/icons/3f3bbb24efa49bab13fc9b7b996286cf.svg"> -->
-  <img align="center" alt="AI Studio"                        width="33px" src="https://az-icons.com/export/icons/bdba2064be58a6b30881bfaddcf6e29d.svg">
-  <!-- <img align="center" alt="Wiz"                              width="33px" src="https://cdn.brandfetch.io/idXbhQWKqT/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B"> -->
+  
+  <img align="center" alt="AI Studio"                        width="33px" src="https://az-icons.com/export/icons/bdba2064be58a6b30881bfaddcf6e29d.svg"> -->
 
-  <hr>
+<hr> 
 
 ### 📌 Areas of Interest <br>
 • Cloud Platforms <br>
-• Infrastructure as Code (IaC) <br>
-• DevOps <br>
 • Kubernetes <br>
 • AI for Cloud Engineering <br>
 
@@ -73,7 +56,10 @@ Currently exploring AI for Cloud Engineering, and platform engineering.
   <summary>Certificates</summary>
   
 <!--START_SECTION:badges-->
+[![Microsoft Global Hackathon 2026](https://images.credly.com/size/80x80/images/8fde2d66-40cc-4b9f-902f-7db8334b87e2/blob)](https://www.credly.com/badges/6063223c-7409-4bed-8a06-b9eb55f827e2)
 [![Microsoft Certified Trainer (MCT) 2026](https://images.credly.com/size/80x80/images/b81c1cec-da9d-4587-976c-ad8562f85e95/blob)](https://www.credly.com/badges/69735b1f-3ccc-4d78-a9ea-1f5270cfa98b)
+[![IBM Advocate 2026](https://images.credly.com/size/80x80/images/90f87bfa-ca6a-4a82-9d5b-ef574883c28e/Advocate_2026.png)](https://www.credly.com/badges/b8cbfcdf-6f39-4ba6-822f-efcfc0c32101)
+[![IBM Contributor 2026](https://images.credly.com/size/80x80/images/277a0aca-64a1-4c6e-ab91-cdba845a2335/Contributor_2026.png)](https://www.credly.com/badges/11cd4915-19a6-4607-867d-972989796847)
 [![IBM Champion 2026](https://images.credly.com/size/80x80/images/067f61a9-e5b6-496c-98c4-d39364201753/Champions_2026.png)](https://www.credly.com/badges/b0de653b-e907-4b42-8f10-50ec79a60b90)
 [![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)](https://www.credly.com/badges/8106c36f-472f-476d-8f30-58628c685b17)
 [![HashiCorp Ambassador 2025](https://images.credly.com/size/80x80/images/1be1a923-f5bb-4001-94bf-468015bf1320/blob)](https://www.credly.com/badges/de40b050-40fe-4660-b0d0-9c15f7b8e050)
