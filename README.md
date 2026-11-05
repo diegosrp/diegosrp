@@ -106,11 +106,11 @@ Currently exploring AI for Cloud Engineering, and platform engineering.
 <h2>Latest from the blog</h2>  
 
 <!-- Blog:START -->
+- [Deploying an Azure Honeypot with Terraform: What Reaches an Exposed VM?](https://diegosrp.github.io/post/azure-tpot-honeypot-with-terraform/)
 - [Azure Tag Governance with Terraform and Automated Compliance Monitoring](https://diegosrp.github.io/post/azure-tag-governance-with-terraform-and-automated-compliance-monitoring/)
 - [Challenge - DIO Cloud Native E-commerce Data Catalog](https://diegosrp.github.io/post/ecommerce-data-catalog/)
 - [HashiConf 2025 - San Francisco, USA](https://diegosrp.github.io/post/hashiconf2025/)
 - [Cloud Adoption Framework vs. Well-Architected Framework](https://diegosrp.github.io/post/azure-caf-vs-waf/)
-- [Diagnostic Settings](https://diegosrp.github.io/post/azure-diagnostic-settings/)
 <!-- Blog:END -->
 
 ---
